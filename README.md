@@ -23,8 +23,5 @@ asdasd
 
 asd
 
-<<<<<<< HEAD
 Test feature1 Conflicto
-=======
 Test
->>>>>>> develop
